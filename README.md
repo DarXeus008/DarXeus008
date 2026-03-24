@@ -1,11 +1,6 @@
-Hi,
+A fellow student of Computer Science, focussing on Data Science and Analysis for the time being. Have been working as the manager at an IT company specialising in CCTV installation and maintenance, network management and expansion thereof as well as the video analytics integration of the CCTV system itself. Furthermore we also specialise in building and maintaining off-grid sites and towers.
 
-My name is DarXeus. I am a fellow learner of Software Development as well as Data Science. I am highly interested in machine learing and statistics. I am currently
-working as an Analytical System Integrator for a company. Whilst working I am busy with several different projects as well as a course on Data Science. Currently 
-I am working on a project for the entity I work for. The purpose of the project is to make my job easier and more efficient.
-
-I am available to collaborate if help is required, I am no expert but a very fast learner with a good bit of enthusiasm.
-Please feel free to contact me @ dng082376@gmail.com, however please input "Github" somewhere in the subject and I will be sure to reply ASAP.
+My current goal is to build enough skills in the Data Science and Analysis fields to be able to expand the nature of the business and to ensure its longevity.
 
 Kind regards
 A fellow IT learner
