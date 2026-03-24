@@ -3,5 +3,7 @@ A fellow student of Computer Science, focussing on Data Science and Analysis for
 My current goal is to build enough skills in the Data Science and Analysis fields to be able to expand the nature of the business and to ensure its longevity.
 
 Kind regards
+
 A fellow IT learner
+
 DarXeus
